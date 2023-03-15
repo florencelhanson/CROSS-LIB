@@ -2,8 +2,8 @@ CHASE
 
 Cross Chase is somehow similar to Daleks / Gnome Robots. You need to lure your pursuers into the mines.
 The main difference is that it is a real-time game and that it has several secrets items and power-ups to pick.
-Similarly to Shoot, at the end of each level or in boss levels, you are confronted by a boss (a skull), which can only be killed by a few bullets fired by the gun item.
-You can complete the level by killing the skull before the last enemy and by doing so you unlock extra items and secrets in the next levels.
+Similar to Shoot, at the end of each level or in boss levels, you are confronted by a boss (a skull), which can only be killed by a few bullets fired by the gun item.
+You can complete the level by killing the skull before the last enemy and by doing so, you unlock extra items and secrets in the next levels.
 Destroying the missile bases can also unlock items.
 You can move in 4 directions and shoot with fire (if you have collected the gun item).
 
